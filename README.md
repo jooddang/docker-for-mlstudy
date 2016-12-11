@@ -23,7 +23,7 @@ xquartz $ xhost - ip
 ```
 
 
-## Running docker
+## Running a Docker container
 ```bash
 $ git clone https://github.com/jooddang/docker-for-mlstudy
 $ docker build -t "ml-study:0.1" .
